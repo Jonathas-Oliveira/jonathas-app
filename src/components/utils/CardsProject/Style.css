@@ -18,4 +18,7 @@
         width: 900px;
         height: 600px;
     }
+    .cards-container{
+        margin-left:0px;
+    }
 }

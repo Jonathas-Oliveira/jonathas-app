@@ -1,11 +1,11 @@
 .container-content{
     margin-left: 10px;
-    width: 460px;
+    width: 400px;
     margin-bottom: 50px;
 }
 .cards-container{
     margin-bottom: 30px;
-    margin-left:50px
+    margin-left:20px
 }
 h1{
     font-family:'roboto';
@@ -38,7 +38,7 @@ p{
 
 .descritptionCardProject{
     font-size:1.0rem;
-    width: 470px
+    width: 100%;
 }
 
 @media(min-width:800px){
@@ -66,4 +66,5 @@ p{
     .descritptionCardProject{
         width: 600px;
     }
+    
 }

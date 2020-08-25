@@ -1,5 +1,5 @@
 .containerCardDrop{
-    width: 450px;
+    width: 370px;
     height: 125px;
     border: solid 0.02rem;
     border-radius: 10px;
@@ -8,7 +8,7 @@
     cursor: pointer;
     transition: border-color 0.5s;
 
-    margin-left: 1.1rem;
+    margin-left: 0.3rem;
     margin-bottom: 1.2rem;
   
 }

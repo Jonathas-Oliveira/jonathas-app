@@ -1,7 +1,7 @@
 
 .container-content{
     margin-left: 0px !important;
-    width: 100% !important;
+    width: 420px;
     margin-bottom: 50px;
 }
 .cards-container{
@@ -13,17 +13,14 @@ h1{
     top: 8px;
     margin: 0;
     font-size:2.5rem ;
-    width: 380px;
+    width: 420px;
 }
 .descritptionCardBlog{
     font-size:1.0rem;
-    width: 380px
-}
-.paragrahBlog{
-    width: 400px;
+    width: 400px
 }
 .containerCards{
-    width: 100%;
+    width: 420px;
 }
 
 @media(min-width:800px){

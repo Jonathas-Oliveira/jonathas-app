@@ -1,12 +1,8 @@
 .paragraph{
     padding-bottom:1.2rem;
     margin-top:2rem ;
-    margin-left:0.0rem ;
-    width: 380px;
-}
-#root,body{
-    width: 370px;
-
+    margin-left:0.9rem ;
+    width: 450px;
 }
 .containerBack{
     height:50px;
@@ -17,15 +13,9 @@
     width: 200px;
     margin-right: 0px;
 }
-.ContainerModalCard{
-    width: 380px;
-}
+
 
 @media(min-width:800px){
-    #root,body{
-        width: 100%;
-    
-    }
 
     .ContainerModalCard{
         display: flex;
@@ -41,12 +31,6 @@
     .paragraph{
 
         font-size: 1.0rem;
-    }
-    #root,body{
-        width: 1000px;
-    }
-    .ContainerModalCard{
-        width: 980px;
     }
     
 }

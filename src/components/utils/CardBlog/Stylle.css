@@ -3,23 +3,16 @@
     height: 280px;
     margin-left: 2.0rem;
 }
-.container-blog{
-    width: 380px;
-}
+
 .title{
     font-size: 1.2rem;
-    width:300px
 }
 .fa-clock{
     margin-right:0.8rem;
     color: #ec5122;
 }
 .descriptionCardBlog{
-    width:370px
-}
-.containerContent{
-    width:380px;
-    margin-left:5px
+    width:420px
 }
 
 @media(min-width:800px){

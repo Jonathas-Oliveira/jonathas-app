@@ -1,0 +1,12 @@
+.textSpan{
+    text-align: center;
+    margin-left: 1.2rem;
+    margin-top: 0.8rem;
+    border: solid 1px;
+    border-radius: 4px;
+    border-color: #EC5122 ;
+    font-size:0.7rem;
+    
+    color: #EC5122;
+    width: 65px;
+}

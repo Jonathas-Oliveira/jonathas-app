@@ -1,0 +1,31 @@
+
+.container-content{
+    margin-left: 0px !important;
+    width: 420px;
+    margin-bottom: 50px;
+}
+.cards-container{
+    margin-bottom: 30px;
+    margin-left:90px
+}
+h1{
+    font-family:'roboto';
+    top: 8px;
+    margin: 0;
+    font-size:2.5rem ;
+    width: 420px;
+}
+.descritptionCardBlog{
+    font-size:1.0rem;
+    width: 400px
+}
+.containerCards{
+    width: 420px;
+}
+
+@media(min-width:800px){
+    .paragrahBlog{
+        font-size: 1.1rem;
+        width: 800px;
+    }
+}

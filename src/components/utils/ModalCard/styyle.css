@@ -1,0 +1,90 @@
+button{
+    background: none;
+	color: inherit;
+	border: none;
+	padding: 0;
+	font: inherit;
+	cursor: pointer;
+    outline: inherit;
+    margin-left: 0;
+	width:0px;
+	margin:0px;
+}
+.ModalBody{
+	background: #202024;
+	color: #fff;
+	width: 480px;
+	height: 900px;
+	margin-left: 7px;
+	
+}
+.ReactModal__Overlay{
+	background-color: rgb(23 22 22 / 75%) !important;
+
+}
+.contentModal{
+	width: 450px;
+	font-size: 1.0rem;
+}
+.subtitleModal{
+	color: #fff;
+	width: 400px;
+	font-size: 1.0rem;
+}
+.imgModal{
+	margin-left: 0px;
+	width: 400px;
+	height: 250px;
+}
+.mobileButton{
+	margin-right: 30px;
+	height: 35px;
+	width: 80px;
+	margin-left:30px ;
+	margin-top: 15px ;
+}
+.containerModal{
+	margin-left: 20px;
+}
+.LinkOfc{
+	display:none;
+}
+@media(min-width:800px){
+	.ModalBody{
+		background: #202024;
+		color: #fff;
+		height: 650px;
+		width: 700px;
+		margin-left: 350px;
+	}
+	.ReactModal__Overlay{
+		background-color: rgb(23 22 22 / 75%) !important;
+	
+	}
+
+	.mobileButton{
+		display: none;
+	}
+	.containerModal{
+		margin-left: 50px;
+	}
+	.contentModal{
+		width: 550px;
+		font-size: 1.0rem;
+	}
+	.imgModal{
+	margin-left: 90px;
+	}
+	.subtitleModal{
+	font-size: 1.4rem;
+	width: 640px;
+	}
+	.imgModal{
+		margin-left: 0px;
+		width: 600px;
+		height: 290px;
+	}
+	.ModalTitle{
+		font-size: 2.6rem;
+	}
+}

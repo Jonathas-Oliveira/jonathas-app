@@ -1,0 +1,33 @@
+.Modalbutton{
+    width:480px;
+    height: 100vh;
+    margin-left: 8px;
+    background: #121214;
+}
+.close{
+    margin-left: 450px;
+    margin-top: 20px;
+}
+.ContentModalButton{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-top: 80px;
+}
+.itemButton{
+    margin-bottom:50px ;
+    font-size: 1.8rem;
+    font-family: 'Roboto';
+}
+img{
+    width: 38px;
+    height: 30px;
+    margin-right: 8px;
+    
+}
+@media(min-width:600px){
+    .Modalbutton{
+        display: none;
+    }
+}

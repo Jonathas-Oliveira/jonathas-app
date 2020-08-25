@@ -1,0 +1,32 @@
+.img-blog{
+    width:250px;
+    height: 280px;
+    margin-left: 2.0rem;
+}
+
+.title{
+    font-size: 1.2rem;
+}
+.fa-clock{
+    margin-right:0.8rem;
+    color: #ec5122;
+}
+.descriptionCardBlog{
+    width:420px
+}
+
+@media(min-width:800px){
+    .container-blog{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+    }
+    .containerContent{
+        margin-top: 80px;
+    }
+    .img-blog{
+        width: 250px;
+        height: 280px;
+        margin-top: 50px;
+    }
+}

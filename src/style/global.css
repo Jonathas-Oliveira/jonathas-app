@@ -1,0 +1,22 @@
+body{
+    background-color: #121214;
+    color: #ffffff;
+    font-family: 'Open Sans';
+    font-weight: 300;
+    letter-spacing: 1px;
+   
+}
+.ReactModal__Overlay--after-open{
+    background-color: rgb(21 21 21 / 80%);
+}
+::-webkit-scrollbar{
+    width: 2px;
+}
+::-webkit-scrollbar-thumb{
+    background: silver
+    ;
+    border-radius: 20px;
+}
+.containerBack{
+    width: 220px;
+}

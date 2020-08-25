@@ -1,0 +1,21 @@
+.project-link{
+    margin-bottom: 90px;
+}
+.project-img-zoom{
+    border-radius:2px;
+    width: 310px;
+    height: 170px;
+}
+.fa-external-link{
+    margin-left:6px ;
+}
+#react-modal-image-img{
+    width: 400px;
+    height: 300px;
+}
+@media(min-width:800px){
+    #react-modal-image-img{
+        width: 900px;
+        height: 600px;
+    }
+}

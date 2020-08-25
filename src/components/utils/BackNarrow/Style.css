@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+}
+.containerBack{
+    height: 80px;
+    display: absolute;
+}
+.leftnarrow{
+    margin-top: 7px;
+    width: 30px;
+    top: 2px;
+    height: 80;
+}
+.leftnarrow:hover{
+    width: 32px;
+}
+a{
+    text-decoration: none;
+    color: #ffffff;
+    top: 1px;
+}

@@ -1,0 +1,14 @@
+.navegation{
+    font-family: 'Roboto';
+    font-weight: 700;
+    font-size: 0.9rem;
+    margin-top: 20px ;
+    letter-spacing: 2px;
+    width: 33rem;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+.card-margin{
+    margin-top: 70px;
+    margin-left: 0;
+}

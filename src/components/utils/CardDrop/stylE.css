@@ -1,0 +1,59 @@
+.containerCardDrop{
+    width: 450px;
+    height: 125px;
+    border: solid 0.02rem;
+    border-radius: 10px;
+    background: none;
+    border-color: gray;
+    cursor: pointer;
+    transition: border-color 0.5s;
+
+    margin-left: 1.1rem;
+    margin-bottom: 1.2rem;
+  
+}
+h3{
+    margin-top: 0.9rem;
+    margin-left: 1.2rem;
+    width: 290px;
+    margin-bottom:0.2rem ;
+    left: 2px;
+    text-align:left;
+}
+
+.descriptionDropCard{
+    margin-left: 1.9rem;
+    width: 210px;
+    margin-top: 0.5rem;
+    font-size: 0.8rem;
+    text-align: left;
+}
+.titleCardDrop{
+    color: #FFF;
+}
+.containerCardDrop:hover{
+    border-color:#ec5122;
+}
+@media(min-width:800px){
+    .containerCardDrop{
+    margin-top: 20px;
+    justify-content: space-evenly;
+    width: 310px;
+    height: 140px;
+    margin-left: 12px;
+    }
+    .ContainerModalCard{
+        width: 1000px;
+        margin-right:0px;
+
+    }
+    h3{
+        margin-top: 1.0rem;
+        margin-left: 1.2rem;
+        width: 290px;
+        margin-bottom:0.2rem ;
+        left: 2px;
+        text-align:left;
+    }
+    
+}

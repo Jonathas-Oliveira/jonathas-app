@@ -4,6 +4,9 @@
     margin-left: 0px;
     background: #121214;
 }
+.buttonModal{
+    width:480px
+}
 .close{
     margin-left: 370px;
     margin-top: 20px;

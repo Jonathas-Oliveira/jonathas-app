@@ -13,7 +13,7 @@ import foodSmall from '../../images/foodfySmall.jpg'
 import foodLarge from '../../images/foodfyLarge.png'
 import devschoolSmall from '../../images/devscroolFront Small.png'
 import devschoolLarge from '../../images/devscroolFrontLarge.png'
-
+import spotify from '../../images/spotifyWeb.png'
 
 function Projects (){
     return( 
@@ -30,6 +30,8 @@ function Projects (){
         <CardProject small={cod3rSmall} href='https://github.com/Jonathas-Oliveira/SPA-AJAX' large={cod3rLarge} titleCard='Cod3r'  />
         <CardProject small={foodSmall} href='https://github.com/Jonathas-Oliveira/LaunchBase' large={foodLarge} titleCard='FoodFy' />
         <CardProject small={devschoolSmall} href='https://github.com/Jonathas-Oliveira/DevSchool' large={devschoolLarge} titleCard='DevSchool'/>
+        <CardProject small={spotify} href='https://github.com/Jonathas-Oliveira/Spotify-Clone' large={spotify} titleCard='Spotify Clone'/>
+
         </div>
         
         </div>

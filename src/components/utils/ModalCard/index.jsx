@@ -6,7 +6,7 @@ import './styyle.css'
     const [ModalOpen,setModalOpen]= useState(false)
 
     return(
-        <div>
+        <div className='ModalCardContainer'>
         <button   onClick={() => setModalOpen(true)}><CardDrop flag={props.flag} title={props.title} data={props.data}/></button>
         
         <Modal className='ModalBody' onRequestClose={() => setModalOpen(false)}  isOpen={ModalOpen} >

@@ -1,3 +1,3 @@
 # jonathas-app
 
-#### ReactJs
+#### ReactJs.

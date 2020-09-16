@@ -108,12 +108,23 @@ footer{
     margin-left: 1.2rem;
 }
 .animation-icon{
-    
     transition: font-size 0.5s;
 }
 .animation-icon:hover{
     font-size: 1.0rem;
-
+}
+header{
+    margin-bottom: 10%;
+    margin-top: 10%;
+}
+#root{
+    height: 600px;
+}
+footer{
+    margin-top: 70%;
+}
+.container-animation{
+    margin-top: 20%;
 }
 
 @media(min-width:800px){

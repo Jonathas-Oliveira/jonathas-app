@@ -23,7 +23,7 @@ function Painel() {
     }
     card2={<CardDrop drops='/drops' before='SEE'img={drops} title='Drops' titulo='SOME' description='Quick posts on code tips and tricks, best practices, tools, and more'/>}
     card3={<CardProjects Projects='/projects' before='SEE' img={projects}title='Projects' titulo='SOME' description='See some projects i have developed or participated'/>}
-    card4={<CardContact before='TALK' img={contact} titulo='TO ME' title='Contact' description="Do you have a project in mind? So contact me and let's make it happen"/>}
+    card4={<CardContact contact=' https://wa.me/+5571981871072' before='TALK' img={contact} titulo='TO ME' title='Contact' description="Do you have a project in mind? So contact me and let's make it happen"/>}
     card5={<CardResume before='SEE' img={resume}titulo='MY' title='Resume' description='Find out more about me by viewing my resume' />}
     >
     </Header>
@@ -41,7 +41,7 @@ function Painel() {
         <div className="content-header">I am passionate about delivering outstanding projects and promoting unforgettable experiences to people.</div>
         <br/>
         <section className="descricao">
-            I'm a Front End Architect focused on React, living in Brazil. I have already developed the most varied applications for people, and developed among others projects individuals. Using the better practices in market.
+            I'm a Front End Architect focused on React, living in Brazil. I have already developed the most varied applications for people, and developed among others individuals projects. Using the better practices in market.
         </section>
 
         <div className="container-animation">

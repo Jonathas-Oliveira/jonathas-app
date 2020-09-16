@@ -17,12 +17,13 @@ function ModalButton (props){
     return(
 
         <div className="buttonModal">
-            <button onClick={() => setModalOpen(!ModalOpen)}><HamburgerButton
-        width={18}
-        height={15}
-        color='#fff'
-        className='burguer'/>
-        </button>
+            <button className='globalbutton' onClick={() => setModalOpen(!ModalOpen)}>
+                <HamburgerButton
+                    width={18}
+                    height={15}
+                    color='#fff'
+                    className='burguer'/>
+            </button>
 
         <Modal className='Modalbutton' onRequestClose={() => setModalOpen(false)}  isOpen={ModalOpen} >
         <div className="ContainerButtonModal">
@@ -35,7 +36,7 @@ function ModalButton (props){
             <Link to='/projects' className='itemButton'><img src={projects} alt=""/><span >Projects</span></Link>
             
             <a href='https://resume.io/r/b0uf5siPh'  className='itemButton' target='_blank' rel="noopener noreferrer"><img src={resume} alt=""/><span>Resume</span></a>
-            <span className='itemButton'><img src={contact} alt=""/>Contact</span>
+           <a  target='_blank' rel="noopener noreferrer" href="https://wa.me/+5571981871072"> <span className='itemButton'><img src={contact} alt=""/>Contact</span></a>
         </div>
         </div>
         </Modal>

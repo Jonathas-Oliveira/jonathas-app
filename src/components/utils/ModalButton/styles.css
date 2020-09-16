@@ -5,7 +5,7 @@
     background: #121214;
 }
 .buttonModal{
-    width:480px
+    width:380px
 }
 .close{
     margin-left: 370px;
@@ -29,8 +29,17 @@ img{
     margin-right: 8px;
     
 }
+.globalbutton{
+    width: 100%;
+}
+ .burguer{
+        margin-left: 90%;
+        width: 70%;
+    }
 @media(min-width:600px){
     .Modalbutton{
         display: none;
     }
+   
+  
 }

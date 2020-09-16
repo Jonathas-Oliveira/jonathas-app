@@ -1,12 +1,11 @@
 import React from 'react'
 import '../style.css'
-import {Link} from 'react-router-dom'
 
 function CardContact (props){
     //lembre de colocar as props do href
     return(
         <div className="container">
-        <Link className='animation' to='/' >
+        <a target='_blank' className='animation' href='https://wa.me/+5571981871072' >
         
         <div className='high-a'>
         
@@ -27,7 +26,7 @@ function CardContact (props){
         
         </div>
         </div>
-        </Link>
+        </a>
    
         </div>
     )

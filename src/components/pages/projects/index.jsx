@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../../style/global.css'
+import '../../../style/background.css'
 import './style.css'
 import BackNarrow from '../../utils/BackNarrow'
 import proffySmall from '../../images/proffySmall.png'

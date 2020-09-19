@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../../style/global.css'
+import '../../../style/background.css'
 import BackNarrow from '../../utils/BackNarrow'
 import './stylee.css'
 import CardBlog from '../../utils/CardBlog'

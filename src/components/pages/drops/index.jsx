@@ -1,5 +1,5 @@
 import React from 'react'
-import '../../../style/global.css'
+import '../../../style/background.css'
 import BackNarrow from '../../utils/BackNarrow'
 //import CardDrop from '../../utils/CardDrop'
 import ModalCard from '../../utils/ModalCard'

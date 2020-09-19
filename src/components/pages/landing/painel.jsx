@@ -1,6 +1,6 @@
 import React from 'react'
 import '../landing/style.css'
-import '../../../style/global.css'
+import '../../../style/background.css'
 import blog from '../../images/blog.svg'
 import Header from '../../utils/header'
 import drops from '../../images/drops.svg'

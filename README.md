@@ -1,5 +1,5 @@
 # jonathas-app
 
-#### ReactJs.
+#### React Js.
 #### NodeJS.
 #### JavaScript.

@@ -1,4 +1,4 @@
-# jonathas-app
+# jonathas-app.
 
 #### React Js.
 #### NodeJS.

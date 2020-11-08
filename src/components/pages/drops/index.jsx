@@ -15,7 +15,7 @@ function drops() {
             <div className="containerDrops">
                 <BackNarrow></BackNarrow>
                 <h1 className='titleDrop'>Drops</h1>
-                <p className='paragraph'>Quick posts on code tips and tricks, best practices, tools, and more:</p>
+                <p className='paragraph'>Postagens rápidas sobre dicas e truques de código, práticas recomendadas, ferramentas e muito mais:</p>
                 <div className="ContainerModalCard">
                 
                 <ModalCard  title='styled component?' data='05 ago, 2020¨ 1min read' IsOpen={true}

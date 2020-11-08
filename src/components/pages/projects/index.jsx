@@ -21,8 +21,8 @@ function Projects (){
         <div className="container-content">
         <BackNarrow/>
         
-        <h1>Projects</h1>
-        <p className='descritptionCardProject'>Here are some of the projects that i have developed or participed in the developed or participated in the development:</p>
+        <h1>Projetos</h1>
+        <p className='descritptionCardProject'>Aqui estão alguns dos projetos que desenvolvi ou participei do processo de desenvolvimento</p>
         </div>
         <div className="containerCards">
         <CardProject small={proffySmall} href="https://github.com/Jonathas-Oliveira/Proffy" large={proffyHuge} titleCard='Proffy'></CardProject>

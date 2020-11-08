@@ -10,7 +10,7 @@ function Blog (props){
         <BackNarrow/>
         
         <h1>Blog</h1>
-        <p className='paragrahBlog'>See posts on development tutorials, programming tips, and technology in general:</p>
+        <p className='paragrahBlog'>Veja as postagens sobre tutoriais de desenvolvimento, dicas de programação e tecnologia em geral:</p>
         <div className="containerCards">
             <CardBlog tag='API, API RESTFul, JavaScript, Back-End Development'
             title='Qual a diferença entre APi Rest/RestFul ?'

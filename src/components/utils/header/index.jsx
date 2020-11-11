@@ -2,7 +2,7 @@ import React from 'react'
 import './style.css'
 function Header(props){
     return(
-        <div className='navegation'>Navegation <br/>
+        <div className='navegation'>Navegação <br/>
         <div className="card-margin">
         {props.card1}
         

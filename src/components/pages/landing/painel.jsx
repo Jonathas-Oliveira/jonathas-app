@@ -36,7 +36,7 @@ function Painel() {
             <p>Sobre mim</p>
                
         </header>
-        <strong className='nome'>Olá, Eu sou Jonathas Oliveira</strong>
+        <strong className='nome'>Olá, Eu sou Jonathas </strong>
         
         <div className="content-header">Sou apaixonado por entregar projetos excepcionais e promover experiências inesquecíveis para as pessoas.</div>
         <br/>

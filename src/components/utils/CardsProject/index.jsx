@@ -12,7 +12,7 @@ function CardProject (props){
             large={props.large}
             ></ModalImage>
                 <span className='title-card'>{props.titleCard}</span> <br/>
-                <a rel="noopener noreferrer" target='_blank' className='project-link' href={props.href}>Open project<i className="fa fa-external-link" aria-hidden="true"></i></a>
+                <a rel="noopener noreferrer" target='_blank' className='project-link' href={props.href}>Abrir projeto<i className="fa fa-external-link" aria-hidden="true"></i></a>
             </div>
            
         </div>

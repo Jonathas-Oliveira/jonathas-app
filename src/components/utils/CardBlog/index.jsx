@@ -10,7 +10,6 @@ function CardBlog (props){
                 <h2 className='title'>{props.title}</h2>
                     <p className='descriptionCardBlog'>{props.description}</p>
                     <p className='descriptionCardBlog'><i className="fas fa-clock"></i>{props.data}</p>
-
             </div>
         </div>
         </a>

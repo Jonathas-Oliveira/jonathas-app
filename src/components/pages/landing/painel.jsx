@@ -38,10 +38,10 @@ function Painel() {
         </header>
         <strong className='nome'>Olá, Eu sou Jonathas </strong>
         
-        <div className="content-header">Sou apaixonado por entregar projetos excepcionais e promover experiências inesquecíveis para as pessoas.</div>
+        <div className="content-header">m desenvolvedor movido a desafios</div>
         <br/>
         <section className="descricao">
-        Sou um desenvolvedor Front End focado em React, morando no Brasil. Já desenvolvi os mais variados aplicativos para pessoas, e desenvolvi entre outros projetos individuais. Usando as melhores práticas do mercado.
+        Programador Front End focado em React. Já desenvolvi as mais variadas aplicações como freelancer, e também outros projetos de estudo, usando as melhores práticas do mercado.
         </section>
 
         <div className="container-animation">

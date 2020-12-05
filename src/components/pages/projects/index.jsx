@@ -9,8 +9,7 @@ import flappySmall from '../../images/flappySmall.jpg'
 import flappyLarge from '../../images/flappyLarge.jpg'
 import cod3rLarge from '../../images/cod3rLarge.png'
 import cod3rSmall from '../../images/cod3rSmall.jpg'
-import foodSmall from '../../images/foodfySmall.jpg'
-import foodLarge from '../../images/foodfyLarge.png'
+import github from '../../images/github.png'
 import devschoolSmall from '../../images/devscroolFront Small.png'
 import devschoolLarge from '../../images/devscroolFrontLarge.png'
 import spotify from '../../images/spotifyWeb.png'
@@ -28,7 +27,7 @@ function Projects (){
         <CardProject small={proffySmall} href="https://github.com/Jonathas-Oliveira/Proffy" large={proffyHuge} titleCard='Proffy'></CardProject>
         <CardProject small={flappySmall} href='https://github.com/Jonathas-Oliveira/Flappy-bird' large={flappyLarge} titleCard='Flappy Bird'/>
         <CardProject small={cod3rSmall} href='https://github.com/Jonathas-Oliveira/SPA-AJAX' large={cod3rLarge} titleCard='Cod3r'  />
-        <CardProject small={foodSmall} href='https://github.com/Jonathas-Oliveira/LaunchBase' large={foodLarge} titleCard='FoodFy' />
+        <CardProject small={github} href='https://github.com/Jonathas-Oliveira/Consuming-API-github' large={github} titleCard='Api Github' />
         <CardProject small={devschoolSmall} href='https://github.com/Jonathas-Oliveira/DevSchool' large={devschoolLarge} titleCard='DevSchool'/>
         <CardProject small={spotify} href='https://github.com/Jonathas-Oliveira/Spotify-Clone' large={spotify} titleCard='Spotify Clone'/>
 

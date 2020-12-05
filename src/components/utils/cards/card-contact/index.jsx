@@ -5,7 +5,7 @@ function CardContact (props){
     //lembre de colocar as props do href
     return(
         <div className="container">
-        <a target='_blank' className='animation' href='https://wa.me/+5571981871072' >
+        <a target='_blank' className='animation' href='https://wa.me/+5571982162051' >
         
         <div className='high-a'>
         
